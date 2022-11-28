@@ -8,6 +8,6 @@ int main(int argc, char* argv[]) {
     else if(argc >= 2)
 	printf("\nHello %s!\n\n", argv[1]);
 
-    printf("Hey!Done!\n");
+    printf("Hey!Finished!\n");
     return 0;
 } 
