@@ -8,3 +8,9 @@
 
   1. create a local repo
   2. push it to remote
+
+* Compilation
+
+```
+$ sudo make
+```
