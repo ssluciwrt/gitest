@@ -7,5 +7,7 @@ int main(int argc, char* argv[]) {
 	printf("\nHello world!\n\n");
     else if(argc >= 2)
 	printf("\nHello %s!\n\n", argv[1]);
+
+    printf("Hey!Done!\n");
     return 0;
 } 
